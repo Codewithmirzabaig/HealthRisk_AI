@@ -1,0 +1,11 @@
+name,category,description,insurance_impact,hospital_bond_impact,pharma_impact,credit_facility_impact,optimal_action
+Pandemic Declaration,Public Health,"Claims surge, hospital stress, vaccine companies benefit.",-0.18,-0.12,0.22,-0.08,Increase IBNR reserves and rebalance toward vaccine/diagnostic companies.
+Hospital Staffing Shortage,Operations,Labor shortage increases hospital costs and reduces capacity.,-0.05,-0.14,0.02,-0.06,Reduce weak hospital bond exposure and monitor operating margins.
+Drug Recall,Pharma,Major drug recall hurts pharma equity and increases litigation risk.,-0.02,-0.03,-0.2,-0.04,Reduce exposure to affected pharma names and diversify pipeline risk.
+Inflation Shock,Macro,Medical cost inflation increases claims and pressures hospital margins.,-0.12,-0.08,-0.03,-0.05,Raise premium assumptions and shorten bond duration.
+New Breakthrough Therapy,Innovation,Successful therapy improves outcomes and boosts pharma valuation.,0.04,0.03,0.18,0.02,Increase allocation to high-quality pharma innovators.
+Hospital Bankruptcy,Credit,Regional hospital system files for bankruptcy.,-0.03,-0.22,-0.01,-0.15,Exit distressed hospital bonds and tighten credit facility covenants.
+Insurance Fraud Spike,Insurance,Fraudulent claims increase claim severity and reserve uncertainty.,-0.16,-0.02,0.0,-0.03,Increase fraud detection controls and strengthen claims review.
+Regulatory Reimbursement Cut,Policy,Government reimbursement cuts pressure hospitals and insurers.,-0.07,-0.11,-0.04,-0.05,Stress test reimbursement-sensitive assets.
+Clinical Trial Failure,Pharma,Late-stage trial failure reduces pharma portfolio value.,0.0,-0.01,-0.16,-0.02,Reduce concentration in single-product companies.
+Recovery Quarter,Recovery,"Claims stabilize, hospitals recover margins, pharma rebounds.",0.08,0.1,0.07,0.04,Rebalance gradually toward diversified growth exposure.

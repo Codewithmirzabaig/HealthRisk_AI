@@ -1,0 +1,14 @@
+{
+    "generated": "2026-06-26T15:41:31.752395",
+    "sections": {
+        "Partial Dependence": {
+            "features": [
+                "age",
+                "bmi",
+                "hospital_visits",
+                "annual_claim_amount"
+            ],
+            "plots_generated": 8
+        }
+    }
+}

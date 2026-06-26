@@ -1,0 +1,35 @@
+{
+    "project": "HealthRisk AI",
+    "version": "2.0",
+    "generated": "2026-06-26T20:08:21.594781",
+    "principles": {
+        "Transparency": {
+            "implementation": "Model Card, SHAP explanations, PDP and ICE visualizations.",
+            "status": "Implemented"
+        },
+        "Explainability": {
+            "implementation": "Counterfactual explanations, SHAP feature importance and interaction analysis.",
+            "status": "Implemented"
+        },
+        "Human Oversight": {
+            "implementation": "Predictions are intended to support\u2014not replace\u2014human decision making.",
+            "status": "Implemented"
+        },
+        "Model Validation": {
+            "implementation": "Performance evaluated using MAE, RMSE and R\u00b2 on a holdout test set.",
+            "status": "Implemented"
+        },
+        "Reproducibility": {
+            "implementation": "Random seeds, version-controlled source code and saved trained models.",
+            "status": "Implemented"
+        },
+        "Data Governance": {
+            "implementation": "Project currently uses synthetic data for development and experimentation.",
+            "status": "Implemented"
+        },
+        "Fairness Monitoring": {
+            "implementation": "Future work: evaluate subgroup performance and bias metrics before production deployment.",
+            "status": "Planned"
+        }
+    }
+}

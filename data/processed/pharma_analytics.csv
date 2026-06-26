@@ -1,0 +1,6 @@
+company,drug,therapeutic_area,phase,estimated_peak_sales,development_cost,years_to_launch,patent_years_remaining,trial_size,safety_score,efficacy_score,base_success_probability,success_probability,discount_factor,risk_adjusted_revenue,rnpv,patent_cliff_risk,revenue_at_risk,portfolio_score,investment_recommendation
+AstraNova,AN-101,Oncology,Phase III,1200,350,2,8,1800,0.82,0.88,0.58,0.715,0.8264462809917354,709.090909090909,359.090909090909,Moderate Patent Cliff Risk,420.0,432.0454545454545,Invest
+OncoLife,OL-440,Oncology,Phase III,1500,420,3,5,2200,0.75,0.86,0.58,0.6925,0.7513148009015775,780.4282494365136,360.4282494365136,High Patent Cliff Risk,975.0,340.4641247182568,Invest
+BioCure,BC-220,Diabetes,Phase II,850,220,4,10,900,0.78,0.81,0.32,0.5575,0.6830134553650705,323.6630011611228,103.66300116112279,Low Patent Cliff Risk,127.5,306.3315005805614,Invest
+MediGen,MG-330,Cardiology,Phase I,600,150,6,12,350,0.7,0.68,0.45,0.5700000000000001,0.5644739300537772,193.05008407839185,43.05008407839185,Low Patent Cliff Risk,90.0,303.52504203919597,Invest
+NeuroPath,NP-550,Neurology,Phase II,900,260,5,7,750,0.73,0.76,0.32,0.5325,0.6209213230591549,297.5765440761,37.57654407609999,Moderate Patent Cliff Risk,315.0,217.03827203805,Monitor
