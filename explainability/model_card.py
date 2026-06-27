@@ -18,7 +18,7 @@ class ModelCard:
         model_name,
         version,
         algorithm,
-        author="Fatima Mahminath",
+        author="MIRZA SHARIF BAIG",
     ):
 
         self.card = {

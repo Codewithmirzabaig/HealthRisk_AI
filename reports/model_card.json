@@ -2,7 +2,7 @@
     "model_name": "Healthcare Cost Prediction",
     "version": "2.0",
     "algorithm": "Stacking Ensemble (XGBoost + LightGBM)",
-    "author": "Fatima Mahminath",
+    "author": "MIRZA SHARIF BAIG",
     "generated": "2026-06-26T20:05:47.548036",
     "dataset": {
         "name": "Synthetic Patient Financial Risk Dataset",

@@ -10,7 +10,7 @@ Stacking Ensemble (XGBoost + LightGBM)
 
 ## Author
 
-Fatima Mahminath
+MIRZA SHARIF BAIG
 
 ## Generated
 
